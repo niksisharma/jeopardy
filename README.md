@@ -21,4 +21,4 @@ A typo-tolerant, context-aware search engine built on Jeopardy questions and ans
 
   ## Collaborators
 * [Luis Riviere](https://github.com/LuisAR99)
-* [Nikita Sharma](https://github.com/niksisharma)
+* [Ishaan Lodhi](https://github.com/ishaan0314)
